@@ -1,0 +1,2 @@
+Add exclude folder(s) capacity in Find in Files (mouse hover on "Filters" label for getting the example on tool-tip). 
+2.  Fix UTF-8 detected w
